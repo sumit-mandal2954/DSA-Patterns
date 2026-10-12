@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/sumit-mandal2954/DSA-Patterns/tree/master/0152-maximum-product-subarray) |
 | [0904-fruit-into-baskets](https://github.com/sumit-mandal2954/DSA-Patterns/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/sumit-mandal2954/DSA-Patterns/tree/master/0904-fruit-into-baskets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/sumit-mandal2954/DSA-Patterns/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
