@@ -63,9 +63,9 @@ class Solution {
             for (int pre = 0; pre < i; pre++) {
                 if (arr[pre] < arr[i] && 1 + dp[pre] > dp[i]) {
                     dp[i] = 1 + dp[pre];
-                    max = Math.max(dp[i], max);
                 }
             }
+            max = Math.max(dp[i], max);
         }
         return max;
     }
